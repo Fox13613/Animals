@@ -1,3 +1,4 @@
 -[Lion](lion.md)
 - [Dragon](dragon.md)
 - [Platypus](platypus.md)
+- [Wolf](wolf.md)
